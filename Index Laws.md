@@ -6,13 +6,13 @@ $$(ab)^m=a^mb^m$$
 $$
 \begin{align*}
 a^{-n}=\frac{1}{a^n} \\
-\mathrm{where}&&a\neq0
+\text{where}&&a\neq0
 \end{align*}
 $$
 $$
 \begin{align*}
 a^0=1 \\ 
-\mathrm{where} && a\neq0
+\text{where} && a\neq0
 \end{align*}
 $$
 $$a^\frac{p}{q}=(a^p)^\frac{1}{q}=(a^\frac{1}{q})^p$$
