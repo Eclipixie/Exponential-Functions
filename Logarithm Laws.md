@@ -1,9 +1,14 @@
-* $x=\log_a{y}$
-* $\therefore y=a^x$
-* $\therefore \log_aa^x=x, x\epsilon \mathbb{R}$
-* $e^x=y \implies \log_ey=x$
-* $\therefore \log_ee^x=x,x\epsilon \mathbb{R}$
-* $e^{\log_ex}=x,x\epsilon \mathbb{R}$
+$$x=\log_a{y}$$
+
+$$\therefore y=a^x$$
+
+$$\therefore \log_aa^x=x, x\epsilon \mathbb{R}$$
+
+$$e^x=y \implies \log_ey=x$$
+
+$$\therefore \log_ee^x=x,x\epsilon \mathbb{R}$$
+
+$$e^{\log_ex}=x,x\epsilon \mathbb{R}$$
 ## Transformation Laws
 Similar to basic [[Index Laws]].
 * $\log_amn=\log_am+\log_an$
