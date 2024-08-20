@@ -2,10 +2,8 @@ If terms of an arithmetic series are added without limit, it approaches infinity
 
 If terms of a geometric series are added without limit, they can become divergent as well, however they can also approach a finite number and become **convergent**.
 ## [[Geometric Series|Geometric]]
-In the equation
+As $n$ approaches infinity, the sum of a geometric series $\{S_n\}$ converges to
 
-$$S_n=\frac{u_1(1-r^n)}{1-r}$$
+$$S_\infty=\frac{u_1}{1-4}$$
 
-If $-1<r<1$, the series is convergent.
-
-Otherwise ($-1\geq r$ or $r\geq1$), the series is divergent.
+If $|r|<1$.
