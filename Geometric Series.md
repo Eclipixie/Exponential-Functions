@@ -2,7 +2,7 @@
 
 A geometric series $\{u_n\}$ can be defined as
 
-$$u_n=u_1r^n$$
+$$u_n=u_1r^{n-1}$$
 
 The sum of $\{u_n\}$ is $S_n$. It can be defined as 
 
