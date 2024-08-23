@@ -2,7 +2,7 @@
 
 The sum of ${u_n}$ is $S_n$. It can be defined as
 
-$$S_n=\sum_{r=0}^{n}u_r$$
+$$S_n=\sum_{r=1}^{n}u_r$$
 
 Which equals
 

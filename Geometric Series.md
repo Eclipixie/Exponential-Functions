@@ -6,15 +6,16 @@ $$u_n=u_1r^n$$
 
 The sum of $\{u_n\}$ is $S_n$. It can be defined as 
 
-$$S_n=\sum_{i=0}^{n}u_i$$
+$$S_n=\sum_{i=1}^{n}u_i$$
 
-When $r<1$:
+When $r<1$, this can be extrapolated to:
 
 $$S_n=\frac{u_1(1-r^n)}{1-r}$$
 
-When $r>1$:
+And when $r>1$:
 
 $$S_n=\frac{u_1(r^n-1)}{r-1}$$
+
 ### Finding $r$
 If at least two terms of $\{u_n\}$ are known (as $u_a$ and $u_b$), $r$ can be defined as:
 
