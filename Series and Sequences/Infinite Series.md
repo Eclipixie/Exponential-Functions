@@ -4,6 +4,6 @@ If terms of a geometric series are added without limit, they can become divergen
 ## [[Geometric Series|Geometric]]
 As $n$ approaches infinity, the sum of a geometric series $\{S_n\}$ converges to
 
-$$S_\infty=\frac{u_1}{1-4}$$
+$$S_\infty=\frac{u_1}{1-r}$$
 
 If $|r|<1$.
