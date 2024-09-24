@@ -36,7 +36,7 @@ $$\frac{dy}{dx}=v(x)u'(x)+u(x)v'(x)$$
 
 if $f(x)=\frac{u(x)}{v(x)}$ then
 
-$$\frac{f'(x)=v(x)u'(x)-u(x)v'(x)}{v(x)^2}$$
+$$f'(x)=\frac{v(x)u'(x)-u(x)v'(x)}{v(x)^2}$$
 
 or $y=\frac{u}{v}$ then
 
